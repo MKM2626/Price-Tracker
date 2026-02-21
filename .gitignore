@@ -1,0 +1,20 @@
+# Tells Git to ignore the datavase and secrets 
+venv/
+tracker.db
+.env
+.DS_Store
+__pycache__/
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Local Data
+tracker.db
+
+# Secrets and Config
+.env
+
+# MacOS Clutter
+.DS_Store
