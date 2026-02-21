@@ -1,5 +1,4 @@
 # Tells Git to ignore the datavase and secrets 
-venv/
 tracker.db
 .env
 .DS_Store
